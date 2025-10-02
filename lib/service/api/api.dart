@@ -4,7 +4,7 @@ import 'dart:typed_data';
 import 'package:http/http.dart' as http;
 import 'package:http_parser/http_parser.dart';
 
-const String kApiBaseUrl = "http://127.0.0.1:8000";
+const String kApiBaseUrl = "http://experimental-machine94.vps-kinghost.net";
 
 class Api {
   Api(this.t);
